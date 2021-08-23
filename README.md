@@ -17,4 +17,5 @@
    - 클라이언트(client)
      웹 사이트에 접근하려고 사용하는 단말(PC, 스마트폰, 태블릿PC 등)
      
-     <img ser = 'server-client.png'> </img>
+     <img width="814" alt="server-client" src="https://user-images.githubusercontent.com/38834702/130520658-2bf9cf18-388e-4aeb-a213-fc3e32fbfacf.png">
+
