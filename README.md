@@ -17,4 +17,4 @@
    - 클라이언트(client)
      웹 사이트에 접근하려고 사용하는 단말(PC, 스마트폰, 태블릿PC 등)
      
-     <img ser = 'https://media.vlpt.us/images/two_jay/post/45d20c5f-b1bd-4966-bfe8-96d058c24f55/%EC%9C%BC%EC%99%95.png'></img>
+     <img ser = 'server-client.png'></img>
