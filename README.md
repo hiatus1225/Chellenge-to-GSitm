@@ -1,7 +1,7 @@
 # Chellenge-to-GSitm
 
 ## 1일차
-## 오늘 목표
+### 오늘 목표
 1. HTML 튜토리얼 
 2. 교재 Chapter2까지 완독 및 실습 따라하기
 
