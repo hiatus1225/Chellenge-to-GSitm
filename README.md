@@ -217,9 +217,46 @@
 
   \*  HTML요소의 계층 관계
 
-![image-20210826081958183](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20210826081958183.png) 
+![image-20210826081958183](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fun3dj%2FbtqQfLtcRBE%2F20wtcaUm5kgxx2fxZkuD50%2Fimg.png) 
 
 
 
 자세한 설명과 사진 : https://chpofo.tistory.com/28   
 
+
+ **## 4일차(2021-08-30)**
+
+ -- html추가
+    
+    \* html 구조
+    
+![image-20210826081958183](https://t1.daumcdn.net/cfile/tistory/2143994B5783067120)
+
+
+    \* layout
+![image-20210826081958183](https://sangyeon96.gitbooks.io/do-it-html5-css3/content/assets/semantic_tag.png) 
+
+자세한 설명과 사진 : https://sangyeon96.gitbooks.io/do-it-html5-css3/content/Chapter10-2.html
+
+
+ -- CSS
+
+  HTML이 브라우저에 보여질 틀이었다면 CSS는 해당 틀의 디자인, 정렬.
+
+  css소스 경량화 툴 -- cssminifier.com
+
+  우선순위 ::: 사용자 스타일 >> 제작자 스타일 >> 브라우저 기본 스타일
+  적용범위 ::: !important >> 인라인 스타일 >> id 스타일 >>  클래스 스타일 >> 타입 스타일
+
+  스타일 상속 :: 부모 태그에 포함된 자식 요소들은 별도의 스타일 지정이 없을 경우 부모 태그의 스타일을 따른다.
+
+  \* 박스 모델
+  ![image-20210826081958183](http://tcpschool.com/lectures/img_css_boxmodel.png) 
+  
+
+  마진 중첩 (마진 상쇄) :: 요소가 세로로 배치될 경우 각 요소의 마진과 마진이 서로 만나면 마진값이 큰 쪽으로 겹쳐지는 현상.
+
+  \* 레이아웃
+     
+     disply : 배치 방법 결정
+     
